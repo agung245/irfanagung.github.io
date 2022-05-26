@@ -1,2 +1,2 @@
 # irfanagung.github.io
-Pendaftaran SIswa Baru
+Pendaftaran Baru
